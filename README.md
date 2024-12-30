@@ -1,7 +1,7 @@
 # Machine Learning Analysis of County-Level Voting Behavior
 
 ## Project Overview
-This study explores socio-economic and educational factors influencing voting patterns across U.S. counties using machine learning techniques. Using data from the 2020 Presidential Election, Harvard Dataverse, and USDA Economic Research Service, we analyzed how factors such as urbanization, income, and education levels impact county-level political preferences.
+This study explores socio-economic and educational factors influencing voting patterns across U.S. counties using machine learning techniques. Using data from the 2020 Presidential Election, Harvard Dataverse, and USDA Economic Research Service, I analyzed how factors such as urbanization, income, and education levels impact county-level political preferences.
 
 ## Key Findings
 - Bachelor's Degree percentage emerged as the strongest predictor of voting behavior
